@@ -1,0 +1,1 @@
+{"uuid":"c55fcb85-66b0-4bf4-9236-5fc9dbe9443a","name":"Profile Testcase","children":["d2a4e44a-37bd-4150-9fcd-ca10f03c78b4"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1736923666267,"stop":1736923672574}],"afters":[],"start":1736923666251,"stop":1736923683257}

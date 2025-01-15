@@ -1,0 +1,1 @@
+{"uuid":"963b8fb1-f3a0-4e51-a052-c6393f5e184d","name":"Send Message Testcase","children":["c501dd38-d14c-445c-b351-c376fcc44f08"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1736927441607,"stop":1736927450259}],"afters":[],"start":1736927441592,"stop":1736927460212}

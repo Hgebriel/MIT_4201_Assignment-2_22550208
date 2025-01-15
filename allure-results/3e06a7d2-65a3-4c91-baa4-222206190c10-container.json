@@ -1,0 +1,1 @@
+{"uuid":"3e06a7d2-65a3-4c91-baa4-222206190c10","name":"QA_Assignment1","children":["8f54fe64-804c-4930-aafd-bb3b12b0a9f9"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1736508304690,"stop":1736508310580}],"afters":[],"start":1736508304684,"stop":1736508324778}
